@@ -28,3 +28,20 @@ I am passionate about drug design and computational biology, currently pursuing 
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=yellow) 
 
 ---
+
+## 🎓 Certifications
+
+![](https://img.shields.io/badge/Certification-Plant_Tissue_Culture_&_Bioinformatics-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Certification-Food_Science_&_Nutrition-green?style=for-the-badge)
+![](https://img.shields.io/badge/Certification-Introduction_to_Virology-red?style=for-the-badge)
+
+---
+
+## 🔬 Research Interests
+
+![](https://img.shields.io/badge/Systems_Biology-informational?style=flat&color=yellow)
+![](https://img.shields.io/badge/Structure--Based_Drug_Design-informational?style=flat&color=yellow)
+![](https://img.shields.io/badge/Biological_Network_Analysis-informational?style=flat&color=yellow)
+![](https://img.shields.io/badge/ML_for_Structure--Function_Prediction-informational?style=flat&color=yellow)
+
+---
