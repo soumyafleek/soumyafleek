@@ -1,3 +1,5 @@
+[![cover](https://github.com/soumyafleek/soumyafleek/blob/main/cover/cover1.png)](https://github.com/soumyafleek?tab=repositories)
+
 <h3 align="center">Medical Informatics Student | Computational Biology | Drug Design Enthusiast</h3>
 
 <p align="center">
