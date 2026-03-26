@@ -1,16 +1,28 @@
-## Hi there 👋
+<h3 align="center">Medical Informatics Student | Computational Biology | Drug Design Enthusiast</h3>
 
-<!--
-**soumyafleek/soumyafleek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="mailto:soumya.shukla@student.uni-tuebingen.de" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="http://www.linkedin.com/in/soumya-shukla07" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+I am passionate about drug design and computational biology, currently pursuing a Master's degree in Medical Informatics. My goal is to become a pharmaceutical scientist and contribute to innovative research and development in the pharmaceutical industry. I am particularly interested in leveraging computational tools and data-driven approaches to solve complex biological problems and accelerate drug discovery.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=yellow) 
+![](https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=yellow) 
+![](https://img.shields.io/badge/Library-Biopython-informational?style=flat&logo=python&logoColor=white&color=yellow) 
+![](https://img.shields.io/badge/Language-R-informational?style=flat&logo=r&logoColor=white&color=yellow) 
+![](https://img.shields.io/badge/Platform-Linux-informational?style=flat&logo=linux&logoColor=white&color=yellow) 
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=yellow) 
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=yellow) 
+![](https://img.shields.io/badge/Tools-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=yellow) 
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=yellow) 
+
+---
