@@ -39,9 +39,9 @@ I am passionate about drug design and computational biology, currently pursuing 
 
 ## 🔬 Research Interests
 
-![](https://img.shields.io/badge/Systems_Biology-informational?style=flat&color=yellow)
-![](https://img.shields.io/badge/Structure--Based_Drug_Design-informational?style=flat&color=yellow)
-![](https://img.shields.io/badge/Biological_Network_Analysis-informational?style=flat&color=yellow)
-![](https://img.shields.io/badge/ML_for_Structure--Function_Prediction-informational?style=flat&color=yellow)
+- Systems biology and understanding biological systems  
+- Structure-based drug design and drug discovery  
+- Biological network analysis  
+- Exploring machine learning for predicting protein structure and function  
 
 ---
